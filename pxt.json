@@ -1,12 +1,12 @@
 {
     "name": "makebit",
     "version": "3.0",
-    "description": "Extension for clb Robots micro:bit",
+    "description": "Extension for Magic Robots micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
-        "TM1650": "github:zhuning239/TM1650"
+        "TM1650": "github:magiccodeedu/TM1650"
     },
     "files": [
         "README.md",
